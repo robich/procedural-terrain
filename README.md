@@ -1,10 +1,13 @@
 # opengl-terrain
 
+This project was done for the EPFL course Introduction to Computer Graphics (CS-341). I worked on it with [Julien Perrenoud](https://github.com/jfperren) and [Alain Milliet](https://github.com/agpmilli).
+We received the grade 5.5/6.
+
 ## Screenshots
 
-![SunSet](https://github.com/jfperren/procedural-terrain/blob/master/saved_screenshots/sunset.png)
-![Sunny](https://github.com/jfperren/procedural-terrain/blob/master/saved_screenshots/sunny.jpg)
-![NightCall](https://github.com/jfperren/procedural-terrain/blob/master/saved_screenshots/nightcall.png)
+![SunSet](https://github.com/RobinGenolet/procedural-terrain/blob/master/saved_screenshots/sunset.png)
+![Sunny](https://github.com/RobinGenolet/procedural-terrain/blob/master/saved_screenshots/sunny.jpg)
+![NightCall](https://github.com/RobinGenolet/procedural-terrain/blob/master/saved_screenshots/nightcall.png)
 
 ## Compiling the project with Visual Studio
 
