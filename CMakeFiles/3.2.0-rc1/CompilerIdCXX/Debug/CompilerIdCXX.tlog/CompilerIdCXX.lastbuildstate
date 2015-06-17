@@ -1,0 +1,6 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+<<<<<<< HEAD:CMakeFiles/3.2.0-rc1/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CompilerIdCXX.lastbuildstate
+Debug|x64|C:\Users\Alain\Desktop\opengl-terrain\CMakeFiles\3.2.0-rc1\CompilerIdCXX\|
+=======
+Debug|Win32|C:\Users\jfperren\Git\opengl-terrain\build\CMakeFiles\3.2.0-rc1\CompilerIdC\|
+>>>>>>> perlin-noise:build/CMakeFiles/3.2.0-rc1/CompilerIdC/Debug/CompilerIdC.tlog/CompilerIdC.lastbuildstate

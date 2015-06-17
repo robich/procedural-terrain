@@ -1,0 +1,6 @@
+bin/
+screenshots/
+*.exe
+*.pdb
+*.ilk
+*.db

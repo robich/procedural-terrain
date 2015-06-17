@@ -1,0 +1,111 @@
+# --- HEADER: terrain data --- #
+# --- Credits: Alain Milliet, Julien Perrenoud, Robin Genolet --- #
+
+# --- General --- #
+
+theme_params.theme_type 3
+
+# --- Window --- #
+
+window_params.width 1600
+window_params.height 1000
+
+# --- Grid --- #
+
+grid_params.enable 1
+grid_params.resolution 100
+grid_params.length 10
+grid_params.width 10
+
+# --- Noise --- #
+
+noise_params.noise_type 2
+noise_params.fractal_type 0
+noise_params.noise_effect 0
+noise_params.fractal_effect 0
+noise_params.resolution 2048
+noise_params.height 2
+noise_params.width 2
+noise_params.offset 0
+noise_params.amplitude 2
+noise_params.H 1.2
+noise_params.lacunarity 2
+noise_params.octaves 12
+noise_params.seed 0.084
+
+# --- Grass --- #
+
+grass_params.enable 1
+grass_params.min_height 0
+grass_params.max_height 0.45
+grass_params.max_slope 7
+grass_params.min_angle 0.4
+grass_params.time_grow 40
+grass_params.time_smooth 2
+
+# --- Sand --- #
+
+sand_params.enable 1
+sand_params.amount 0.02
+sand_params.max_amount 2
+sand_params.min_height -0.5
+sand_params.max_height 0.05
+sand_params.max_slope 0.04
+sand_params.threshold 0.001
+sand_params.slide_time 30
+sand_params.melt_time 2
+sand_params.smooth_time 20
+
+# --- Snow --- #
+
+snow_params.enable 1
+snow_params.amount 0.18
+snow_params.max_amount 2
+snow_params.min_height 0.7
+snow_params.max_slope 2
+snow_params.threshold 0.001
+snow_params.slide_time 25
+snow_params.melt_time 2
+snow_params.smooth_time 2
+
+# --- Water --- #
+
+water_params.enable 1
+water_params.height 0
+water_params.color 0.7 0.55 0.3
+water_params.depth_alpha_factor 3
+water_params.depth_color_factor 0.05
+water_params.transparency 0.4
+water_params.reflection_factor 0.6
+water_params.waves_speed 0.1
+water_params.waves_tile_factor 5
+water_params.waves_amplitude 30
+
+# --- Shading --- #
+
+shading_params.enable_phong 1
+shading_params.enable_shadow 1
+shading_params.shadow_intensity 0.4
+shading_params.Ia 0.92 0.6 0.5
+shading_params.Id 0.8 0.3 0.2
+shading_params.light_pos 1 0.8 0.5
+shading_params.far 4
+shading_params.near -4
+
+# --- Texture --- #
+
+texture_params.texture_type 2
+texture_params.skybox_type 3
+
+# --- Bezier --- #
+
+bezier.cam_pos_points 1.83 1.21 5.23 0
+bezier.cam_pos_points -2.95 0.40 3.39 1
+bezier.cam_pos_points -3.94 0.25 1.91 2
+bezier.cam_pos_points -2.19 0.028 -2.62 3
+bezier.cam_look_points 1.11 0.64 0.32 4
+bezier.cam_look_points 1.12 0.64 0.32 5
+bezier.cam_look_points 1.13 0.64 0.32 6
+bezier.cam_look_points 1.14 0.64 0.32 7
+
+# --- END OF DATA --- #
